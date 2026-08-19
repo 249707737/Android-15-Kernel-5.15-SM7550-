@@ -3,7 +3,7 @@
 > **项目状态**：已完结 / 防御边界已探明
 > **🚨 提示**：本仓库为早期探索的测试存档。
 > 完整的最终研究结论、防御边界测绘报告、以及核心偏移量（`0x2080ae40` 等），已迁移至新的研究仓库：
-> 👉 **[Android-16-SM7550-Kernel-5.15.178-LPE-Research](你新仓库的链接)**
+> 👉 **[Android-16-SM7550-Kernel-5.15.178-LPE-Research](https://github.com/249707737/Android-16-SM7550-Kernel-5.15.178-Exploit-Research)**
 > **研究设备**：**vivo S18** (SM7550, Snapdragon 7 Gen 3)
 > **系统版本**：Android 16
 > **内核版本**：Kernel 5.15.178-g0f1e91e908f4-dirty
